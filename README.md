@@ -3,7 +3,7 @@
 Welcome to my profile:
 
 - 🔭 I’m currently working on fullstack projects.
-- 🌱 I’m currently learning cloud technologies like AWS.
+- 🌱 I’m currently learning cloud technologies.
 - 💬 Ask me about JavaScript, React, Node.js, or anything related to full-stack development.
 - 📫 How to reach me: sarahtavareswilke@gmail.com
 - 😄 Pronouns: she/her
