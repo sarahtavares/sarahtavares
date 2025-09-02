@@ -4,7 +4,7 @@ Welcome to my profile:
 
 - 🔭 I’m currently working on fullstack projects.
 - 🌱 I’m currently learning cloud technologies.
-- 💬 Ask me about JavaScript, React, Node.js, or anything related to full-stack development.
+- 💬 Ask me about JavaScript, React, Node.js, Java or anything related to full-stack development.
 - 📫 How to reach me: sarahtavareswilke@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I’m passionate about dogs and have one named Tequila! 🐶
